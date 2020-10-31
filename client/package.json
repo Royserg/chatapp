@@ -33,6 +33,8 @@
     "@babel/runtime": "^7.12.0",
     "graphql": "^15.4.0",
     "react": "^16.13.0",
-    "react-dom": "^16.13.0"
+    "react-dom": "^16.13.0",
+    "subscriptions-transport-ws": "^0.9.18",
+    "shards-react": "1.0.3"
   }
 }
