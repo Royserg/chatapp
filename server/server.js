@@ -6,6 +6,11 @@ const messages = [
     user: 'Jakub',
     content: 'the content',
   },
+  {
+    id: '2',
+    user: 'Jack',
+    content: 'Hello',
+  },
 ];
 
 const typeDefs = `
